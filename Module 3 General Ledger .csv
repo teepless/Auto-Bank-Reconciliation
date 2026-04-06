@@ -1,0 +1,41 @@
+﻿River Side Manufacturing Pension Benefits,,,,
+Detail Trial Balance Account 1-1005,,,,
+Teeples Bank Checking ,,,,
+,,,,
+ID#,Date,Memo,Debit,Credit
+GJ001,2-Mar,Pension ACH Draws,," $22,100.80 "
+1001,2-Mar,Pension Check Draw,, $300.00 
+1002,2-Mar,Pension Check Draw,, $272.05 
+1003,2-Mar,Pension Check Draw,, $125.00 
+1004,2-Mar,Pension Check Draw,, $250.00 
+1005,2-Mar,Pension Check Draw,, $25.00 
+1006,2-Mar,Pension Check Draw,, $700.00 
+1007,2-Mar,Pension Check Draw,, $307.50 
+1008,2-Mar,Pension Check Draw,, $12.98 
+GJ002,2-Mar,IRS Tax Payment,, $456.16 
+ACH,4-Mar,Teeples Co. Admin Fees,," $19,000.00 "
+GJ003,4-Mar,Contribution Deposit," $1,617.90 ",
+GJ004,5-Mar,Contribution Deposit, $609.90 ,
+GJ005,6-Mar,MN Tax Payment,," $1,128.17 "
+GJ006,12-Mar,Bank Service Charge,, $724.72 
+ACH,17-Mar,Teeples Co. Office Rent,, $750.00 
+ACH,17-Mar,Jorde & Asscociates Legal Fees ,, $132.00 
+GJ007,18-Mar,Contribution Deposit," $1,933.24 ",
+GJ008,19-Mar,Transfer to Investments,," $235,000.00 "
+1009,20-Mar,Pension Check Draw,, $75.03 
+1010,20-Mar,Pension Check Draw,, $100.00 
+1011,20-Mar,Pension Check Draw,, $100.00 
+1012,20-Mar,Pension Check Draw,, $125.00 
+GJ009,24-Mar,IRS Tax Payment,, $456.16 
+GJ010,25-Mar,Contribution Deposit," $22,154.47 ",
+GJ011,25-Mar,Contribution Deposit," $25,096.72 ",
+GJ012,25-Mar,Contribution Deposit," $182,186.37 ",
+GJ013,27-Mar,Contribution Deposit," $8,665.14 ",
+GJ014,31-Mar,Contribution Deposit," $1,500.06 ",
+GJ015,31-Mar,Contribution Deposit," $12,003.17 ",
+,,,,
+,,," $255,766.97 "," $282,140.57 "
+,,,,
+,,,,
+,28-Feb,Beginning Ledger Balance," $272,700.40 ",
+,31-Mar,Ending Ledger Balance," $246,326.80 ",
